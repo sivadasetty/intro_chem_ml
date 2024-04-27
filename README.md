@@ -1,2 +1,2 @@
-#### Some introductory ML notebooks illustrating different regression methods such as linear, gaussian process regression, feed forward neural networks, and graph convolutional neural networs using a structure-property prediction problem.
+#### Some introductory ML notebooks illustrating different regression methods such as linear regression (LR), gaussian process regression (GPR), feed forward neural (FFN) networks, and graph convolutional neural networks (GCN) using a structure-property prediction problem.
 
