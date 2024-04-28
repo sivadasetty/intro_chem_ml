@@ -1,6 +1,6 @@
 #### Some introductory ML notebooks illustrating different regression methods such as linear regression (LR), gaussian process regression (GPR), feed forward neural (FFN) networks, and graph convolutional neural networks (GCN) using a structure-property prediction problem.
 
-#### Helpful resources: GNN
+#### Helpful resources on GNN
 
   1. Basics: [https://distill.pub/2021/gnn-intro/](https://distill.pub/2021/gnn-intro/)
   2. Overview of GCN: [https://tkipf.github.io/graph-convolutional-networks/](https://tkipf.github.io/graph-convolutional-networks/)
